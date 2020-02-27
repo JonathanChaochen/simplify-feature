@@ -9,19 +9,15 @@
   "author": "chao",
   "license": "ISC",
   "dependencies": {
-    "@turf/truncate": "^6.0.1",
     "@turf/turf": "^5.1.6",
     "async": "^3.2.0",
     "install": "^0.13.0",
     "lodash": "^4.17.15",
     "npm": "^6.14.0",
     "pull-file": "^1.1.0",
-    "pull-json-doubleline": "^2.0.0",
-    "pull-ndjson": "^0.2.0",
     "pull-split": "^0.2.1",
     "pull-stream": "^3.6.14",
     "pull-utf8-decoder": "^1.0.2",
-    "simplify-geojson": "^1.0.3",
-    "simplify-js": "^1.2.4"
+    "simplify-geojson": "^1.0.3"
   }
 }
